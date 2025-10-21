@@ -41,7 +41,7 @@ export default function Footer() {
                 <Bell className="w-5 h-5 text-white" />
               </div>
               <span className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-400">
-                Notifier
+                ninbox
               </span>
             </div>
             <p className="text-slate-400 mb-6 max-w-sm">

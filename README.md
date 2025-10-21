@@ -1,6 +1,6 @@
-# Notifier - Landing Website
+# ninbox - Landing Website
 
-Modern institutional landing page for Notifier, a multi-channel notification platform designed for SaaS startup founders.
+Modern institutional landing page for ninbox, a multi-channel notification platform designed for SaaS startup founders.
 
 ## Features
 
