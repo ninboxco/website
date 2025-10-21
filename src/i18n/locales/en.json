@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Multi-Channel Notifications",
+    "subtitle": "Made Simple",
+    "description": "Reach your customers where they are. Send personalized notifications across email, push, SMS, and WhatsApp with intelligent segmentation and AI-powered analytics.",
+    "cta": "Start Free Trial",
+    "secondary": "Watch Demo"
+  },
+  "features": {
+    "title": "Everything you need to engage your customers",
+    "subtitle": "FEATURES",
+    "items": [
+      {
+        "title": "Multi-Channel Delivery",
+        "description": "Send notifications through email, push notifications, SMS, and WhatsApp from a single unified platform."
+      },
+      {
+        "title": "Smart Segmentation",
+        "description": "Target the right customers with AI-powered segmentation based on behavior, preferences, and engagement patterns."
+      },
+      {
+        "title": "Real-Time Analytics",
+        "description": "Track delivery rates, engagement metrics, and conversion data in real-time with comprehensive dashboards."
+      },
+      {
+        "title": "Personalization Engine",
+        "description": "Dynamically personalize content for each customer using templates and custom attributes."
+      },
+      {
+        "title": "Event-Driven Architecture",
+        "description": "Trigger notifications based on user actions, time-based rules, or custom events from your application."
+      },
+      {
+        "title": "Enterprise Ready",
+        "description": "Built on AWS with 99.9% uptime SLA, SOC 2 compliance, and enterprise-grade security."
+      }
+    ]
+  },
+  "stats": {
+    "title": "Trusted by growing startups worldwide",
+    "items": [
+      {
+        "value": "10M+",
+        "label": "Messages Delivered"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      },
+      {
+        "value": "50+",
+        "label": "Active Customers"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Customer Rating"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to transform your customer engagement?",
+    "description": "Join hundreds of SaaS companies using our platform to deliver billions of notifications.",
+    "button": "Get Started Free",
+    "note": "No credit card required • 14-day free trial"
+  },
+  "footer": {
+    "description": "Modern notification infrastructure for SaaS startups.",
+    "product": "Product",
+    "company": "Company",
+    "resources": "Resources",
+    "legal": "Legal",
+    "links": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "documentation": "Documentation",
+      "api": "API Reference",
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact",
+      "guides": "Guides",
+      "tutorials": "Tutorials",
+      "support": "Support",
+      "status": "Status",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "security": "Security",
+      "gdpr": "GDPR"
+    },
+    "copyright": "© 2024 Notifier. All rights reserved."
+  }
+}

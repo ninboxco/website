@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "features": "Características",
+    "pricing": "Precios",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Notificaciones Multi-Canal",
+    "subtitle": "Hechas Simples",
+    "description": "Alcanza a tus clientes donde están. Envía notificaciones personalizadas por email, push, SMS y WhatsApp con segmentación inteligente y análisis potenciados por IA.",
+    "cta": "Prueba Gratis",
+    "secondary": "Ver Demo"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para involucrar a tus clientes",
+    "subtitle": "CARACTERÍSTICAS",
+    "items": [
+      {
+        "title": "Entrega Multi-Canal",
+        "description": "Envía notificaciones por email, notificaciones push, SMS y WhatsApp desde una única plataforma unificada."
+      },
+      {
+        "title": "Segmentación Inteligente",
+        "description": "Apunta a los clientes correctos con segmentación potenciada por IA basada en comportamiento, preferencias y patrones de engagement."
+      },
+      {
+        "title": "Analíticas en Tiempo Real",
+        "description": "Rastrea tasas de entrega, métricas de engagement y datos de conversión en tiempo real con dashboards comprehensivos."
+      },
+      {
+        "title": "Motor de Personalización",
+        "description": "Personaliza dinámicamente el contenido para cada cliente usando plantillas y atributos personalizados."
+      },
+      {
+        "title": "Arquitectura Event-Driven",
+        "description": "Dispara notificaciones basadas en acciones de usuario, reglas basadas en tiempo o eventos personalizados de tu aplicación."
+      },
+      {
+        "title": "Listo para Empresas",
+        "description": "Construido en AWS con 99.9% de uptime SLA, cumplimiento SOC 2 y seguridad de nivel empresarial."
+      }
+    ]
+  },
+  "stats": {
+    "title": "Confiado por startups en crecimiento en todo el mundo",
+    "items": [
+      {
+        "value": "10M+",
+        "label": "Mensajes Entregados"
+      },
+      {
+        "value": "99.9%",
+        "label": "SLA de Disponibilidad"
+      },
+      {
+        "value": "50+",
+        "label": "Clientes Activos"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Calificación de Clientes"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para transformar el engagement con tus clientes?",
+    "description": "Únete a cientos de empresas SaaS que usan nuestra plataforma para entregar miles de millones de notificaciones.",
+    "button": "Comenzar Gratis",
+    "note": "Sin tarjeta de crédito • Prueba gratis de 14 días"
+  },
+  "footer": {
+    "description": "Infraestructura moderna de notificaciones para startups SaaS.",
+    "product": "Producto",
+    "company": "Empresa",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "links": {
+      "features": "Características",
+      "pricing": "Precios",
+      "documentation": "Documentación",
+      "api": "Referencia API",
+      "about": "Acerca de",
+      "blog": "Blog",
+      "careers": "Carreras",
+      "contact": "Contacto",
+      "guides": "Guías",
+      "tutorials": "Tutoriales",
+      "support": "Soporte",
+      "status": "Estado",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "security": "Seguridad",
+      "gdpr": "GDPR"
+    },
+    "copyright": "© 2024 Notifier. Todos los derechos reservados."
+  }
+}
