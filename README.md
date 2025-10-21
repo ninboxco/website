@@ -119,7 +119,20 @@ Update translations in:
 
 ## Deployment
 
-### Build for Production
+### 🚀 Automated GitHub Pages Deployment
+
+This project is configured for automatic deployment to GitHub Pages with custom domain support.
+
+**Live Site**: https://ninbox.co
+
+Every push to the `main` branch automatically:
+1. Builds the project
+2. Deploys to GitHub Pages
+3. Updates https://ninbox.co
+
+For detailed deployment instructions, DNS configuration, and troubleshooting, see [DEPLOYMENT.md](./DEPLOYMENT.md).
+
+### Manual Build
 
 ```bash
 npm run build
@@ -127,14 +140,14 @@ npm run build
 
 The optimized files will be in the `dist/` directory.
 
-### Deploy to Vercel
+### Alternative Deployment Options
 
+**Vercel:**
 ```bash
 npx vercel
 ```
 
-### Deploy to Netlify
-
+**Netlify:**
 ```bash
 npx netlify deploy --prod
 ```
